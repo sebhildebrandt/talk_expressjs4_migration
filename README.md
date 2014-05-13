@@ -1,12 +1,12 @@
-# Migrating from ExpressJS 3.0 to ExpressJS 4.0
+# Migrating from ExpressJS 3.0 to 4.0
 ==========================
 
 ## Demo Code Express 4.0 - Boilerplate Server
 
 This (very basic) boilerplate server shows:
 
-- Basic dependencies (see package.json)
-- Middleware for static files, favicon, sessions
+- basic dependencies (see package.json)
+- middleware for static files, favicon, sessions
 - basic app confiuration
 - logging in dev-mode
 
