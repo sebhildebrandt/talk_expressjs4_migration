@@ -1,5 +1,4 @@
 # Migrating from ExpressJS 3.0 to 4.0
-==========================
 
 ## Demo Code Express 4.0 - Boilerplate Server
 
