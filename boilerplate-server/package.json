@@ -1,0 +1,25 @@
+{
+  "name": "appname",
+  "description": "your description",
+  "author": "You <yourname@you.com>",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "error-handler": "latest",
+    "serve-favicon": "latest",
+    "cookie-parser": "latest",
+    "express-session": "latest",
+    "method-override": "latest",
+    "morgan": "latest",
+    "serve-favicon": "latest",
+    "ejs": "latest",
+    "request": "latest",
+    "passport": "latest",
+    "passport-local": "latest"
+  }
+}
